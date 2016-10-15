@@ -1,6 +1,6 @@
-package com.example.zakti.twitter;
-
+package com.example.twitter;
 import java.util.ArrayList;
+import java.util.HashMap;
 
 /**
  * Created by zak on 10/15/2016.
@@ -15,7 +15,7 @@ public class Graph {
     }
 
     public void add_edge(String from, String to, Integer weight) {
-        String edge = from.
+     //   String edge = from.
     }
 
 }

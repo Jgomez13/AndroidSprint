@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         //Consumer Key (API Key)KpQrzxa3mQAKCuoHAoOt9rxHo
         //Consumer Secret (API Secret)doZz7HbuJUR7PCNEdZ0ZAqnQaMX8n7cLfIKQdf2DQvWiHSbWXE
         twitter = TwitterFactory.getSingleton();
-        twitter.setOAuthConsumer("[KpQrzxa3mQAKCuoHAoOt9rxHo]", "[doZz7HbuJUR7PCNEdZ0ZAqnQaMX8n7cLfIKQdf2DQvWiHSbWXE]");
+        twitter.setOAuthConsumer("KpQrzxa3mQAKCuoHAoOt9rxHo", "doZz7HbuJUR7PCNEdZ0ZAqnQaMX8n7cLfIKQdf2DQvWiHSbWXE");
         RequestToken requestToken;
         try {
           requestToken = twitter.getOAuthRequestToken();
