@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Twitter.iml" filepath="$PROJECT_DIR$/Twitter.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twitter4j-core-4.0.4/twitter4j-core-4.0.4.iml" filepath="$PROJECT_DIR$/twitter4j-core-4.0.4/twitter4j-core-4.0.4.iml" />
     </modules>
   </component>
 </project>
