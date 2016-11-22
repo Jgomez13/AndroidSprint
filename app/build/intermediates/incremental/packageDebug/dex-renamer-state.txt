@@ -1,0 +1,7 @@
+#Wed Oct 19 15:59:43 EDT 2016
+base.0=/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e5fd0510d4fd9dc0a2aa959660e910ee0baf640d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bb2ef6a41e495c0d530849e2412f281d7ef3d451/classes.dex
+base.1=/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bb2ef6a41e495c0d530849e2412f281d7ef3d451
+file.0=/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e5fd0510d4fd9dc0a2aa959660e910ee0baf640d/classes.dex

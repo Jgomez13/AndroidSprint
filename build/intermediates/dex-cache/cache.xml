@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/repos/AndroidSprint/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_5e433ffbb499d11929296d4d50c787ac7382fb69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/repos/AndroidSprint/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3f61f9c26ce563eefc8a2291fdc5839ebb07344b">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bb2ef6a41e495c0d530849e2412f281d7ef3d451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/repos/AndroidSprint/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_6736d9b267d544f1a74673160c7ceb7e54d084af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/repos/AndroidSprint/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_713d23163bdf8d0df7fab904698da11295ad1c73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/repos/AndroidSprint/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7607e341f8505ed78de8513edf1fd1f6c5882fdc">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e5fd0510d4fd9dc0a2aa959660e910ee0baf640d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/repos/AndroidSprint/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_ff280970987bb60528f06af2bf0a1523fde47fb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/repos/AndroidSprint/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_007c7715cf1a0b8b389433c29c11bd84611d5e28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/repos/AndroidSprint/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_81baca945421b8fab63344b861a8d43ad51aaed4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/repos/AndroidSprint/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_fb55b8a9c20bfaae42d6ebfe9b4f096acbdfe832/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/repos/AndroidSprint/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_328036be6ae6500b38c2572c5a94362cfc28e5e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/repos/AndroidSprint/twitter4j-4.0.4/lib/twitter4j-core-4.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f4ac5989c7be37249dfe310bf78ba69773ebce2d">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/2/twitter4j-core-4.0.4_70e9d1406dc27777da0976b2dcfe789fe5578315/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kitesu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/kitesu/repos/AndroidSprint/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_26fe6f3566200b9442b403a114d995a2adcb7e67/classes.dex" />
+    </item>
+
+</items>
